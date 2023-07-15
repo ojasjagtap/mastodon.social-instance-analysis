@@ -1,4 +1,4 @@
-pause
-networkx
-matplotlib
+pause~=0.3
+networkx~=3.1
+matplotlib~=3.7.2
 mastodon.py
