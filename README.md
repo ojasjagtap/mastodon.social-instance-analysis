@@ -1,4 +1,4 @@
-# mastodon.social-instance-analysis
+# mastodon.social Instance Analysis
 This project retrieves users from the mastodon.social instance, creates a directed graph representing follower relationships, computes eigenvector centrality, and visualizes the network using Matplotlib and NetworkX.
 
 Prerequisites:
